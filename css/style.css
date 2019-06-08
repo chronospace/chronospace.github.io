@@ -3,13 +3,12 @@ div {
 }
 
 .space {
-    margin-bottom: 5em;
+    margin-bottom: 10em;
 }
 
 .big-space {
     margin-bottom: 8em;
 }
-
 
 figcaption {
     color: darkgreen;
@@ -19,10 +18,11 @@ figcaption {
     background-image: url(/img/spacetime.svg);
     background-color: transparent;
 }
-.centered {
-    align-content: center;
-    align-items: center;
+
+body {
+    margin: 18em 0;
     text-align: center;
+    width:100%;
 }
 
 li {
