@@ -1,0 +1,41 @@
+div {
+    font-family: 'Roboto', sans-serif;
+}
+
+.space {
+    margin-bottom: 5em;
+}
+
+figcaption {
+    color: darkgreen;
+    font-style: italic;
+}
+.spacetime {
+    background-image: url(/img/spacetime.svg);
+    background-color: transparent;
+}
+.centered {
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+li {
+    list-style-type:none;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.options li {
+    margin-bottom: 1em;
+}
+
+.equals {
+    font-size: 5em;
+}
+
+.bold {
+    font-weight: bold;
+}
